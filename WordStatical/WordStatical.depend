@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1562679488 source:d:\clock\wordstatical\word.c
+	<stdio.h>
+	<string.h>
+	"word.h"
+
+1562679478 d:\clock\wordstatical\word.h
+
+1562679338 source:d:\clock\wordstatical\main.c
+	<stdio.h>
+	<stdlib.h>
+	"word.h"
+
